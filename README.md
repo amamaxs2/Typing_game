@@ -1,2 +1,2 @@
 # Typing_game
-Jogo de digitação que fiz com JavaScript puro
+Um jogo de digitação que fiz para compreender melhor a linguagem JavaScript. 
